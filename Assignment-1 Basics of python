@@ -1,0 +1,85 @@
+# what is python?
+# why we use python?
+# Applications of python?
+# Explain about comments with example?
+# Explain about keywords?
+# Explain about variable?
+
+What is phython?
+. Python is a programming language that is used for many tasks, including web development, data analysis, and machine learning. It is a general-purpose language that is easy to learn and use. l
+to learn and use.
+
+why we use python?
+. Its simple and readable syntax makes it accessible for beginners, while its versatility and extensive libraries make it powerful for advanced applications.
+
+Applications of python?
+1. Web Development
+2. Machine Learning and Artificial Intelligence
+3. Data Science
+4. Game Development
+5. Audio and Visual Applications
+6. Software Development
+7. CAD Applications
+8. Business Applications
+9. Desktop GUI
+10. Web Scraping Application
+
+Explain about comments with example?
+.identified with a hash symbol, #, and extend to the end of the line.
+
+Types of comments?
+.single-line comments
+.multi-line comments
+.docstring comments
+
+Explain about Keywords With example?
+.In Python, keywords are reserved words that have special meanings and cannot be used as identifiers (e.g., variable names, function names). They are
+ the building blocks of the language's syntax and structure.
+
+ There are 35 Keywords in python?
+.None
+.break
+.except
+.in
+.raise
+.False
+.await
+.else
+.import
+.pass
+.and
+.continue
+.for
+.lambda
+.try
+.True
+.class
+.finally
+.is
+.return
+.as
+.def
+.from
+.nonlocal
+.while
+.async
+.elif
+.if
+.not
+.with
+.assert
+.del
+.global
+.or
+.yield
+
+Example about variable with example?
+.In Python, a variable is a name that refers to a value stored in memory. You can think of it as a container that holds data.
+
+Example:
+
+x = 10
+
+print(x)
+
+
